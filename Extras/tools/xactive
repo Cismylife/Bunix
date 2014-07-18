@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "activating the compilers!"
+
+export PATH=$PATH:/usr/local/cross/bin
